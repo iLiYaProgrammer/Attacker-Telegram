@@ -50,8 +50,8 @@ pip install -r requirements.txt
 ۱. پروژه را کلون کنید:
 
 ```bash
-git clone https://github.com/your-username/Telegram-Manager.git
-cd Telegram-Manager
+git clone https://github.com/iLiYaProgrammer/Attacker-Telegram.git
+cd Attacker-Telegram
 ```
 
 ۲. کتابخانه‌ها را نصب کنید:
